@@ -1,0 +1,23 @@
+{
+  "name": "fl-pgdb-node",
+  "version": "1.0.0",
+  "description": "Module for interacting with Postgres from node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fast-learner/fl-pgdb-node.git"
+  },
+  "author": "Ausome Apps LLC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fast-learner/fl-pgdb-node/issues"
+  },
+  "homepage": "https://github.com/fast-learner/fl-pgdb-node#readme",
+  "dependencies": {
+    "pg": "^6.4.0",
+    "pg-promise": "^6.1.2"
+  }
+}
