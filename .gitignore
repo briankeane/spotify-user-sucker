@@ -1,0 +1,10 @@
+node_modules/
+.idea/
+.env*
+!.env-example
+.DS_Store
+.bash_history
+.config/
+.npm/
+.node-gyp/
+.babel.json

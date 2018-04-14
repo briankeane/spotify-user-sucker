@@ -1,0 +1,22 @@
+{
+  "name": "pl-eventstream-node",
+  "version": "1.0.0",
+  "description": "Useful for event subscribing/publishing between microservices using AMQP and RabbitMQ. Brazenly stolen from Haris Ali",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fast-learner/fl-eventstream-node.git"
+  },
+  "author": "Playola Radio, Inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briankeane/pl-eventstream-node/issues"
+  },
+  "homepage": "https://github.com/briankeane/pl-eventstream-node#readme",
+  "dependencies": {
+    "amqplib": "^0.5.1"
+  }
+}
