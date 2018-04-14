@@ -1,9 +1,10 @@
 #!/bin/bash
+
   # uncomment and add your own links here
   # git remote add heroku https://git.heroku.com/pl-example-service.git
   # git remote add staging https://git.heroku.com/pl-example-service-staging.git
   # git remote add testing https://git.heroku.com/pl-example-service-testing.git
-
+  
   wget https://cli-assets.heroku.com/branches/stable/heroku-linux-amd64.tar.gz
   sudo mkdir -p /usr/local/lib /usr/local/bin
   sudo tar -xvzf heroku-linux-amd64.tar.gz -C /usr/local/lib

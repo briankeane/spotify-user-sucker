@@ -14,7 +14,6 @@
 	*  .circleci
 	*  edit `setup-heroku.sh` to reflect heroku repos
 
-
 ### Connecting to playola's rabbitmq stream:
 
 The example service connects to the stream by default.  If your service does not want to use it:
